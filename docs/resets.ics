@@ -1,0 +1,697 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Adam Coulter//Codex Reset Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Codex Reset Calendar
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT15M
+X-PUBLISHED-TTL:PT15M
+BEGIN:VEVENT
+UID=codex-reset-1968163721034994139@adamcoulteroz.github.io
+DTSTAMP:20250917T040252Z
+DTSTART:20250917T040252Z
+DTEND:20250917T043252Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:We have reset everyone's limits for gpt-5-codex to allow you al
+ l to benefit more from it today and as a way to make up for the slowdowns 
+ earlier while we were provisioning…\\n\\nClassification: confirmed\\nSco
+ pe: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudience
+ : not specified\\nSource: Verified archive\\nOriginal X post: https://x.co
+ m/thsottiaux/status/1968163721034994139
+URL:https://x.com/thsottiaux/status/1968163721034994139
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-1986166501435711936@adamcoulteroz.github.io
+DTSTAMP:20251105T201929Z
+DTSTART:20251105T201929Z
+DTEND:20251105T204929Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:Codex outage resolved. We suffered a minor outage for last 45 m
+ inutes which turned into a global outage for last 30 minutes\, this is now
+  resolved and we have reset the rate…\\n\\nClassification: tentative\\nS
+ cope: global\\nConfidence: high\\nTiming provenance: official_window\\nAud
+ ience: not specified\\nSource: Verified archive\\nOriginal X post: https:/
+ /x.com/thsottiaux/status/1986166501435711936
+URL:https://x.com/thsottiaux/status/1986166501435711936
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-1992370994028388670@adamcoulteroz.github.io
+DTSTAMP:20251122T231356Z
+DTSTART:20251122T231356Z
+DTEND:20251122T234356Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:We have reset rate limits for all Codex users to compensate for
+  the unusual high latencies in or near the US in the previous hours. Grate
+ ful for the team working hard behind the…\\n\\nClassification: confirmed
+ \\nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAu
+ dience: not specified\\nSource: Verified archive\\nOriginal X post: https:
+ //x.com/thsottiaux/status/1992370994028388670
+URL:https://x.com/thsottiaux/status/1992370994028388670
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-1995988609896513743@adamcoulteroz.github.io
+DTSTAMP:20251202T224902Z
+DTSTART:20251202T224902Z
+DTEND:20251202T231902Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:We have reset the usage limits for everyone in Codex\, which he
+ lps us mitigate the issue the fastest and the team will continue to work o
+ n the underlying cause. This should…\\n\\nClassification: confirmed\\nSc
+ ope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudienc
+ e: not specified\\nSource: Verified archive\\nOriginal X post: https://x.c
+ om/thsottiaux/status/1995988609896513743
+URL:https://x.com/thsottiaux/status/1995988609896513743
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2001114683047317723@adamcoulteroz.github.io
+DTSTAMP:20251217T021814Z
+DTSTART:20251217T021814Z
+DTEND:20251217T024814Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Didn’t need to do this in a while\, but you know the drill. W
+ e have reset everyone’s usage limits\, enjoy more Codex and apologies fo
+ r the disruption.\\n\\nClassification: confirmed\\nScope: global\\nConfide
+ nce: high\\nTiming provenance: announced_at\\nAudience: not specified\\nSo
+ urce: Verified archive\\nOriginal X post: https://x.com/thsottiaux/status/
+ 2001114683047317723
+URL:https://x.com/thsottiaux/status/2001114683047317723
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2002137269134819610@adamcoulteroz.github.io
+DTSTAMP:20251219T220137Z
+DTSTART:20251219T220137Z
+DTEND:20251219T223137Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:We rewrote the underlying system to track and bill usage in Cod
+ ex and we have reset usage limits in the process. Backfilling is time cons
+ uming and it’s more fun to give free…\\n\\nClassification: confirmed\\
+ nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudi
+ ence: not specified\\nSource: Verified archive\\nOriginal X post: https://
+ x.com/thsottiaux/status/2002137269134819610
+URL:https://x.com/thsottiaux/status/2002137269134819610
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2028649088594436225@adamcoulteroz.github.io
+DTSTAMP:20260303T015007Z
+DTSTART:20260303T015007Z
+DTEND:20260303T022007Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Codex is back up. We introduced an issue that caused requests t
+ o be blocked and rejected as high cyber risk. This was fixed in ~8 mins an
+ d we are now back online and fully…\\n\\nClassification: confirmed\\nSco
+ pe: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudience
+ : not specified\\nSource: Verified archive\\nOriginal X post: https://x.co
+ m/thsottiaux/status/2028649088594436225
+URL:https://x.com/thsottiaux/status/2028649088594436225
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2029308599835738218@adamcoulteroz.github.io
+DTSTAMP:20260304T213047Z
+DTSTART:20260304T213047Z
+DTEND:20260304T220047Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Fixed a bug where the 2X promotional limit increase was not app
+ lied to ~9% of Plus/Pro users\; reset limits to compensate.\\n\\nClassific
+ ation: confirmed\\nScope: global\\nConfidence: high\\nTiming provenance: a
+ nnounced_at\\nAudience: not specified\\nSource: Verified archive\\nOrigina
+ l X post: https://x.com/thsottiaux/status/2029308599835738218
+URL:https://x.com/thsottiaux/status/2029308599835738218
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2030474136024400173@adamcoulteroz.github.io
+DTSTAMP:20260308T024213Z
+DTSTART:20260308T024213Z
+DTEND:20260308T031213Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:We don’t have evidence of a widespread issue with codex usage
+  being drained faster than it should but there are enough reports and we h
+ ave reset rate limits for plus & pro…\\n\\nClassification: confirmed\\nS
+ cope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudien
+ ce: not specified\\nSource: Verified archive\\nOriginal X post: https://x.
+ com/thsottiaux/status/2030474136024400173
+URL:https://x.com/thsottiaux/status/2030474136024400173
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2031216405266481489@adamcoulteroz.github.io
+DTSTAMP:20260310T035143Z
+DTSTART:20260310T035143Z
+DTEND:20260311T035143Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:This codex issue is now fully resolved and stable for the last 
+ couple of hours. You have come to expect it\, but yes\, that means we will
+  be reseting rate limits in a bit. Enjoy.\\n\\nClassification: tentative\\
+ nScope: global\\nConfidence: high\\nTiming provenance: official_window\\nA
+ udience: not specified\\nSource: Verified archive\\nOriginal X post: https
+ ://x.com/thsottiaux/status/2031216405266481489
+URL:https://x.com/thsottiaux/status/2031216405266481489
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2031605592352313567@adamcoulteroz.github.io
+DTSTAMP:20260311T053813Z
+DTSTART:20260311T053813Z
+DTEND:20260311T060813Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:OK\, Codex is back and stable and we should be good for a while
+ . Reset button pressed\, should see it in a bit\\n\\nClassification: confi
+ rmed\\nScope: global\\nConfidence: high\\nTiming provenance: announced_at\
+ \nAudience: not specified\\nSource: Verified archive\\nOriginal X post: ht
+ tps://x.com/thsottiaux/status/2031605592352313567
+URL:https://x.com/thsottiaux/status/2031605592352313567
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2037346989244096581@adamcoulteroz.github.io
+DTSTAMP:20260327T015228Z
+DTSTART:20260327T015228Z
+DTEND:20260327T022228Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Hello. We have reset Codex usage limits across all plans to let
+  everyone experiment with the magnificent plugins we just launched\, and b
+ ecause it had been a while! You can just…\\n\\nClassification: confirmed
+ \\nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAu
+ dience: not specified\\nSource: Verified archive\\nOriginal X post: https:
+ //x.com/thsottiaux/status/2037346989244096581
+URL:https://x.com/thsottiaux/status/2037346989244096581
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2039248564967424483@adamcoulteroz.github.io
+DTSTAMP:20260401T074839Z
+DTSTART:20260401T074839Z
+DTEND:20260401T081839Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Our Codex dashboards are showing increased rate of users hittin
+ g rate limits and since we don't fully understand why I have made the caut
+ ious decision of resetting the usage…\\n\\nClassification: confirmed\\nS
+ cope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudien
+ ce: not specified\\nSource: Verified archive\\nOriginal X post: https://x.
+ com/thsottiaux/status/2039248564967424483
+URL:https://x.com/thsottiaux/status/2039248564967424483
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2046367145588916687@adamcoulteroz.github.io
+DTSTAMP:20260420T231521Z
+DTSTART:20260420T231521Z
+DTEND:20260420T234521Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Codex incident is mitigated\, seeing recovery. Lasted about 10 
+ mins\, Codex itself helped with the remediation\, but ultimately the insig
+ ht came from a human this time. Apologies for…\\n\\nClassification: conf
+ irmed\\nScope: global\\nConfidence: high\\nTiming provenance: announced_at
+ \\nAudience: not specified\\nSource: Verified archive\\nOriginal X post: h
+ ttps://x.com/thsottiaux/status/2046367145588916687
+URL:https://x.com/thsottiaux/status/2046367145588916687
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2055707616605835333@adamcoulteroz.github.io
+DTSTAMP:20260516T175103Z
+DTSTART:20260516T175103Z
+DTEND:20260516T182103Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Codex usage limits have now been reset across all paid plans. E
+ njoy the weekend!\\n\\nClassification: confirmed\\nScope: global\\nConfide
+ nce: high\\nTiming provenance: announced_at\\nAudience: not specified\\nSo
+ urce: Verified archive\\nOriginal X post: https://x.com/thsottiaux/status/
+ 2055707616605835333
+URL:https://x.com/thsottiaux/status/2055707616605835333
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2058280452851638313@adamcoulteroz.github.io
+DTSTAMP:20260523T201435Z
+DTSTART:20260523T201435Z
+DTEND:20260523T204435Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Some of you noticed limits drained faster in Codex\, we root ca
+ used it to an optimization that we rolled back that had an impact on cache
+  hit rates when compacting across long…\\n\\nClassification: confirmed\\
+ nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudi
+ ence: not specified\\nSource: Verified archive\\nOriginal X post: https://
+ x.com/thsottiaux/status/2058280452851638313
+URL:https://x.com/thsottiaux/status/2058280452851638313
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2061106703446450392@adamcoulteroz.github.io
+DTSTAMP:20260531T152506Z
+DTSTART:20260531T152506Z
+DTEND:20260531T155506Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:The Codex usage limits have been reset for all paid ChatGPT sub
+ scriptions. You should be back to 100% weekly and 100% hourly limits. Let 
+ the tokens do incredible things today and…\\n\\nClassification: confirme
+ d\\nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nA
+ udience: not specified\\nSource: Verified archive\\nOriginal X post: https
+ ://x.com/thsottiaux/status/2061106703446450392
+URL:https://x.com/thsottiaux/status/2061106703446450392
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2062329981548802523@adamcoulteroz.github.io
+DTSTAMP:20260604T002558Z
+DTSTART:20260604T002558Z
+DTEND:20260604T005558Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Hi. Over the last 24 hours we had three separate small incident
+ s that affected Codex reliability. Those are three too many and we are tak
+ ing active steps for them to not…\\n\\nClassification: confirmed\\nScope
+ : global\\nConfidence: high\\nTiming provenance: announced_at\\nAudience: 
+ not specified\\nSource: Verified archive\\nOriginal X post: https://x.com/
+ thsottiaux/status/2062329981548802523
+URL:https://x.com/thsottiaux/status/2062329981548802523
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2067399435009622521@adamcoulteroz.github.io
+DTSTAMP:20260618T001010Z
+DTSTART:20260618T001010Z
+DTEND:20260618T004010Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:"Sneaky double reset": full reset applied plus an extra reset d
+ eposited into the reset bank.\\n\\nClassification: confirmed\\nScope: glob
+ al\\nConfidence: high\\nTiming provenance: announced_at\\nAudience: not sp
+ ecified\\nSource: Verified archive\\nOriginal X post: https://x.com/thsott
+ iaux/status/2067399435009622521
+URL:https://x.com/thsottiaux/status/2067399435009622521
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2070653282440405046@adamcoulteroz.github.io
+DTSTAMP:20260626T233948Z
+DTSTART:20260626T233948Z
+DTEND:20260627T023948Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:We are giving all Codex users a usage reset on the house. Shoul
+ d be showing in your accounts in the next few hours. We have applied some 
+ mitigations\, but our investigation hasn't…\\n\\nClassification: tentati
+ ve\\nScope: global\\nConfidence: high\\nTiming provenance: official_window
+ \\nAudience: not specified\\nSource: Verified archive\\nOriginal X post: h
+ ttps://x.com/thsottiaux/status/2070653282440405046
+URL:https://x.com/thsottiaux/status/2070653282440405046
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2071381664853319742@adamcoulteroz.github.io
+DTSTAMP:20260628T235407Z
+DTSTART:20260628T235407Z
+DTEND:20260629T002407Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:As we are still investigating\, I have reset everyone's Codex u
+ sage limits. This is a hard reset given some users had stacked up to three
+  banked resets already that they can apply…\\n\\nClassification: confirm
+ ed\\nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\n
+ Audience: not specified\\nSource: Verified archive\\nOriginal X post: http
+ s://x.com/thsottiaux/status/2071381664853319742
+URL:https://x.com/thsottiaux/status/2071381664853319742
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2071740419030053227@adamcoulteroz.github.io
+DTSTAMP:20260629T233941Z
+DTSTART:20260629T233941Z
+DTEND:20260630T003941Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:Full reset within the hour plus one additional banked reset\, a
+ fter usage was being consumed faster than expected.\\n\\nClassification: t
+ entative\\nScope: global\\nConfidence: high\\nTiming provenance: official_
+ window\\nAudience: not specified\\nSource: Verified archive\\nOriginal X p
+ ost: https://x.com/thsottiaux/status/2071740419030053227
+URL:https://x.com/thsottiaux/status/2071740419030053227
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2075330198887940337@adamcoulteroz.github.io
+DTSTAMP:20260709T212411Z
+DTSTART:20260709T212411Z
+DTEND:20260709T222411Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:Enjoy a full reset of your usage limits for ChatGPT Work and Co
+ dex. Propagating in the next hour. @_rajanagarwal just joined to work on m
+ odel research and push on coding…\\n\\nClassification: tentative\\nScope
+ : global\\nConfidence: high\\nTiming provenance: official_window\\nAudienc
+ e: not specified\\nSource: Verified archive\\nOriginal X post: https://x.c
+ om/thsottiaux/status/2075330198887940337
+URL:https://x.com/thsottiaux/status/2075330198887940337
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2075641131002700120@adamcoulteroz.github.io
+DTSTAMP:20260710T175943Z
+DTSTART:20260710T175943Z
+DTEND:20260711T065959Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:Hello beautiful people! We have reset usage limits across Codex
+  and ChatGPT Work. And another one will come later in the day. Rejoice. No
+ w that I have your attention\, a quick…\\n\\nClassification: tentative\\
+ nScope: global\\nConfidence: high\\nTiming provenance: official_window\\nA
+ udience: not specified\\nSource: Verified archive\\nOriginal X post: https
+ ://x.com/thsottiaux/status/2075641131002700120
+URL:https://x.com/thsottiaux/status/2075641131002700120
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2075820987833274448@adamcoulteroz.github.io
+DTSTAMP:20260711T055425Z
+DTSTART:20260711T055425Z
+DTEND:20260711T062425Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:Introducing... another usage limit reset for all our ChatGPT Wo
+ rk and Codex users. Should land over next 30 minutes. Hope you have an awe
+ some weekend. Thank you for pushing our…\\n\\nClassification: tentative\
+ \nScope: global\\nConfidence: high\\nTiming provenance: official_window\\n
+ Audience: not specified\\nSource: Verified archive\\nOriginal X post: http
+ s://x.com/thsottiaux/status/2075820987833274448
+URL:https://x.com/thsottiaux/status/2075820987833274448
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2077114635308986427@adamcoulteroz.github.io
+DTSTAMP:20260714T193454Z
+DTSTART:20260714T193454Z
+DTEND:20260714T200454Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:8M active users across Codex and ChatGPT Work: reset for all\, 
+ and still no 5h rate limit\, to explore GPT-5.6 Sol.\\n\\nClassification: 
+ confirmed\\nScope: global\\nConfidence: high\\nTiming provenance: announce
+ d_at\\nAudience: not specified\\nSource: Verified archive\\nOriginal X pos
+ t: https://x.com/thsottiaux/status/2077114635308986427
+URL:https://x.com/thsottiaux/status/2077114635308986427
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2077607697487188198@adamcoulteroz.github.io
+DTSTAMP:20260716T041409Z
+DTSTART:20260716T041409Z
+DTEND:20260716T044409Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:9M active users: another reset\, restoring 100% weekly usage li
+ mit.\\n\\nClassification: confirmed\\nScope: global\\nConfidence: high\\nT
+ iming provenance: announced_at\\nAudience: not specified\\nSource: Verifie
+ d archive\\nOriginal X post: https://x.com/thsottiaux/status/2077607697487
+ 188198
+URL:https://x.com/thsottiaux/status/2077607697487188198
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2078320950488297917@adamcoulteroz.github.io
+DTSTAMP:20260718T032822Z
+DTSTART:20260718T032822Z
+DTEND:20260718T035822Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Oops... I did it again. Enjoy reset usage limits for all paid u
+ sers for Codex and ChatGPT Work. Super grateful for an incredible team who
+  is iterating at lightspeed and keeping…\\n\\nClassification: confirmed\
+ \nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAud
+ ience: not specified\\nSource: Verified archive\\nOriginal X post: https:/
+ /x.com/thsottiaux/status/2078320950488297917
+URL:https://x.com/thsottiaux/status/2078320950488297917
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2079609157934886975@adamcoulteroz.github.io
+DTSTAMP:20260721T164715Z
+DTSTART:20260721T164715Z
+DTEND:20260721T174715Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:10M users: new usage reset for paid Codex and ChatGPT Work user
+ s\, landing within the hour.\\n\\nClassification: tentative\\nScope: globa
+ l\\nConfidence: high\\nTiming provenance: official_window\\nAudience: not 
+ specified\\nSource: Verified archive\\nOriginal X post: https://x.com/thso
+ ttiaux/status/2079609157934886975
+URL:https://x.com/thsottiaux/status/2079609157934886975
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2081096447718723984@adamcoulteroz.github.io
+DTSTAMP:20260725T191712Z
+DTSTART:20260725T191712Z
+DTEND:20260725T194712Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Usage limits reset for all Codex and ChatGPT Work users after a
+ n almost-global outage the previous night.\\n\\nClassification: confirmed\
+ \nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAud
+ ience: codex\, chatgpt_work\\nSource: Verified archive\\nOriginal X post: 
+ https://x.com/thsottiaux/status/2081096447718723984
+URL:https://x.com/thsottiaux/status/2081096447718723984
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2081940052154933696@adamcoulteroz.github.io
+DTSTAMP:20260728T030923Z
+DTSTART:20260728T030923Z
+DTEND:20260728T033923Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Back at the laptop: usage limits reset for all paid users of Co
+ dex and ChatGPT Work.\\n\\nClassification: confirmed\\nScope: global\\nCon
+ fidence: high\\nTiming provenance: announced_at\\nAudience: codex\, chatgp
+ t_work\\nSource: Verified archive\\nOriginal X post: https://x.com/thsotti
+ aux/status/2081940052154933696
+URL:https://x.com/thsottiaux/status/2081940052154933696
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2083395449814229287@adamcoulteroz.github.io
+DTSTAMP:20260801T033237Z
+DTSTART:20260801T033237Z
+DTEND:20260801T040237Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Usage limits reset for Codex and ChatGPT Work to celebrate a we
+ ek of efficiency and GPT-5.6 Luna throughput.\\n\\nClassification: confirm
+ ed\\nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\n
+ Audience: codex\, chatgpt_work\\nSource: Verified archive\\nOriginal X pos
+ t: https://x.com/thsottiaux/status/2083395449814229287
+URL:https://x.com/thsottiaux/status/2083395449814229287
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2086188036493344823@adamcoulteroz.github.io
+DTSTAMP:20260808T202922Z
+DTSTART:20260808T202922Z
+DTEND:20260808T205922Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Usage limits reset for all paid users of ChatGPT Work and Codex
+  to celebrate GPT-5.6 Sol availability.\\n\\nClassification: confirmed\\nS
+ cope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudien
+ ce: codex\, chatgpt_work\\nSource: Verified archive\\nOriginal X post: htt
+ ps://x.com/thsottiaux/status/2086188036493344823
+URL:https://x.com/thsottiaux/status/2086188036493344823
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2086972802457063486@adamcoulteroz.github.io
+DTSTAMP:20260811T002744Z
+DTSTART:20260811T002744Z
+DTEND:20260811T005744Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Hi. It is done. This completed the reset promised for Monday\; 
+ the reference weekly-usage card returned to 100% remaining.\\n\\nClassific
+ ation: confirmed\\nScope: global\\nConfidence: high\\nTiming provenance: a
+ nnounced_at\\nAudience: codex\, chatgpt_work\\nSource: Verified archive\\n
+ Original X post: https://x.com/thsottiaux/status/2086972802457063486
+URL:https://x.com/thsottiaux/status/2086972802457063486
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2087706104814023111@adamcoulteroz.github.io
+DTSTAMP:20260813T010137Z
+DTSTART:20260813T010137Z
+DTEND:20260813T020137Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:Crossed 15M active users: a celebratory reset for everyone\, la
+ nding within the hour — announced late as old news from a bunch of days 
+ ago.\\n\\nClassification: tentative\\nScope: global\\nConfidence: high\\nT
+ iming provenance: official_window\\nAudience: codex\, chatgpt_work\\nSourc
+ e: Verified archive\\nOriginal X post: https://x.com/thsottiaux/status/208
+ 7706104814023111
+URL:https://x.com/thsottiaux/status/2087706104814023111
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2090766694897619318@adamcoulteroz.github.io
+DTSTAMP:20260821T114319Z
+DTSTART:20260821T114319Z
+DTEND:20260821T121319Z
+SUMMARY:Confirmed banked reset
+DESCRIPTION:20M active users milestone: announced one banked reset for ever
+ y Codex and ChatGPT Work user\, credited during the day for on-demand use.
+ \\n\\nClassification: banked\\nScope: global\\nConfidence: high\\nTiming p
+ rovenance: announced_at\\nAudience: codex\, chatgpt_work\\nSource: Verifie
+ d archive\\nOriginal X post: https://x.com/thsottiaux/status/2090766694897
+ 619318
+URL:https://x.com/thsottiaux/status/2090766694897619318
+CATEGORIES:banked
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2090947196107764189@adamcoulteroz.github.io
+DTSTAMP:20260821T234034Z
+DTSTART:20260821T234034Z
+DTEND:20260822T001034Z
+SUMMARY:Confirmed banked reset
+DESCRIPTION:Banked reset delivery window: arriving by 8pm PST for all paid 
+ ChatGPT Work and Codex users.\\n\\nClassification: banked\\nScope: global\
+ \nConfidence: high\\nTiming provenance: announced_at\\nAudience: codex\, c
+ hatgpt_work\\nSource: Verified archive\\nOriginal X post: https://x.com/th
+ sottiaux/status/2090947196107764189
+URL:https://x.com/thsottiaux/status/2090947196107764189
+CATEGORIES:banked
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2090964822422949999@adamcoulteroz.github.io
+DTSTAMP:20260822T005036Z
+DTSTART:20260822T005036Z
+DTEND:20260822T012036Z
+SUMMARY:Confirmed banked reset
+DESCRIPTION:The 20M-milestone banked reset landed in accounts for all paid 
+ Codex and ChatGPT Work users\, redeemable on demand.\\n\\nClassification: 
+ banked\\nScope: global\\nConfidence: high\\nTiming provenance: announced_a
+ t\\nAudience: codex\, chatgpt_work\\nSource: Verified archive\\nOriginal X
+  post: https://x.com/thsottiaux/status/2090964822422949999
+URL:https://x.com/thsottiaux/status/2090964822422949999
+CATEGORIES:banked
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2091412393368945027@adamcoulteroz.github.io
+DTSTAMP:20260823T200000Z
+DTSTART:20260823T200000Z
+DTEND:20260823T220000Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:Reset will land around 14pm PST tomorrow.\\n\\nClassification: 
+ tentative\\nScope: global\\nConfidence: medium\\nTiming provenance: offici
+ al_window\\nAudience: not specified\\nSource: Live radar feed\\nOriginal X
+  post: https://x.com/thsottiaux/status/2091412393368945027
+URL:https://x.com/thsottiaux/status/2091412393368945027
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2091688655828246890@adamcoulteroz.github.io
+DTSTAMP:20260824T004651Z
+DTSTART:20260824T004651Z
+DTEND:20260824T011651Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Good Sunday reset propagated to accounts\, alongside usage fixe
+ s for the issues found the day before — "you should feel a positive diff
+ erence."\\n\\nClassification: confirmed\\nScope: global\\nConfidence: high
+ \\nTiming provenance: announced_at\\nAudience: codex\, chatgpt_work\\nSour
+ ce: Verified archive\\nOriginal X post: https://x.com/thsottiaux/status/20
+ 91688655828246890
+URL:https://x.com/thsottiaux/status/2091688655828246890
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2092311059197808936@adamcoulteroz.github.io
+DTSTAMP:20260825T141500Z
+DTSTART:20260825T141500Z
+DTEND:20260825T144500Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Quiet reset for all paid plans — weekly usage back to 100% fr
+ om ~14:00 UTC. Tibo confirmed it only in replies ("Ah yeah\, forgot to say
+ ") ahead of the Plus 5h-limit return.\\n\\nClassification: confirmed\\nSco
+ pe: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudience
+ : codex\, chatgpt_work\\nSource: Verified archive\\nOriginal X post: https
+ ://x.com/thsottiaux/status/2092311059197808936
+URL:https://x.com/thsottiaux/status/2092311059197808936
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2093014447833116908@adamcoulteroz.github.io
+DTSTAMP:20260827T163505Z
+DTSTART:20260827T163505Z
+DTEND:20260827T170505Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:Never slept better and feeling reseted. Brand new me and brand 
+ new usage for all ChatGPT Work and Codex users. Regaining my youth one but
+ ton press at a time.\n\nHappy Thursday\\n\\nClassification: tentative\\nSc
+ ope: global\\nConfidence: medium\\nTiming provenance: announced_at\\nAudie
+ nce: not specified\\nSource: Live radar feed\\nOriginal X post: https://x.
+ com/thsottiaux/status/2093014447833116908
+URL:https://x.com/thsottiaux/status/2093014447833116908
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2093801758665715784@adamcoulteroz.github.io
+DTSTAMP:20260829T204334Z
+DTSTART:20260829T204334Z
+DTEND:20260829T211334Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:We are reseting usage for all paid users of Codex and ChatGPT W
+ ork.\n\nPlease continue reading for an update on Codex usage limits. The t
+ eam has been working around the clock\, going\\n\\nClassification: tentati
+ ve\\nScope: global\\nConfidence: medium\\nTiming provenance: announced_at\
+ \nAudience: not specified\\nSource: Live radar feed\\nOriginal X post: htt
+ ps://x.com/thsottiaux/status/2093801758665715784
+URL:https://x.com/thsottiaux/status/2093801758665715784
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID=codex-reset-2094252447271366730@adamcoulteroz.github.io
+DTSTAMP:20260831T023427Z
+DTSTART:20260831T023427Z
+DTEND:20260831T030427Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:25M active users: to celebrate\, usage reset for every paid Cha
+ tGPT Work and Codex subscription — the reset promised for 6pm PT the pre
+ vious day.\\n\\nClassification: confirmed\\nScope: global\\nConfidence: hi
+ gh\\nTiming provenance: announced_at\\nAudience: codex\, chatgpt_work\\nSo
+ urce: Verified archive\\nOriginal X post: https://x.com/thsottiaux/status/
+ 2094252447271366730
+URL:https://x.com/thsottiaux/status/2094252447271366730
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
