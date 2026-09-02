@@ -29,7 +29,8 @@ class GeneratorTests(unittest.TestCase):
         self.assertTrue(text.startswith("BEGIN:VCALENDAR\r\n"))
         self.assertTrue(text.endswith("END:VCALENDAR\r\n"))
         self.assertNotIn("\n", text.replace("\r\n", ""))
-        self.assertIn("UID=codex-reset-100@adamcoulteroz.github.io", text)
+        self.assertIn("UID:codex-reset-100@adamcoulteroz.github.io", text)
+        self.assertNotIn("UID=", text)
         self.assertEqual(
             generate_ics.escape("A; comma, slash \\ and newline\ntext."),
             "A\\; comma\\, slash \\\\ and newline\\ntext.",
@@ -42,6 +43,19 @@ class GeneratorTests(unittest.TestCase):
         self.assertGreater(len(lines), 1)
         self.assertTrue(all(len(line.encode("utf-8")) <= 75 for line in lines))
         self.assertTrue(all(line.startswith(" ") for line in lines[1:]))
+
+    def test_historical_promo_and_legacy_banked_classification(self):
+        promo = {"type": "promo", "scope": "global", "source": "archive", "confidence": "high", "preview": False}
+        legacy_banked = {"type": "credits", "scope": "global", "source": "archive", "confidence": "high", "preview": False}
+        self.assertEqual(generate_ics.classify(promo), "confirmed")
+        self.assertEqual(generate_ics.classify(legacy_banked), "banked")
+
+    def test_cloud_task_normalized_contract(self):
+        base = {"scope": "global", "source": "cloud_task", "confidence": "high", "type": "reset"}
+        self.assertEqual(generate_ics.classify(base | {"preview": False, "announcement_state": "confirmed"}), "confirmed")
+        self.assertEqual(generate_ics.classify(base | {"preview": True, "announcement_state": "announced"}), "tentative")
+        self.assertEqual(generate_ics.classify({"scope": "global", "source": "cloud_task", "confidence": "high", "type": "credits", "reset_kind": "banked", "preview": False}), "banked")
+        self.assertIsNone(generate_ics.classify({"scope": "global", "source": "live", "confidence": "medium", "type": "reset", "preview": False, "announcement_state": "none"}))
 
 
 if __name__ == "__main__":

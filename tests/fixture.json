@@ -2,7 +2,7 @@
   "events": [
     {"id":"100","type":"reset","scope":"global","source":"archive","source_label":"Verified archive","confidence":"high","preview":false,"summary":"A confirmed reset; with comma, slash \\\\ and newline\\ntext.","url":"https://x.com/example/status/100","announced_at":"2026-01-01T00:00:00Z","audience":["codex","chatgpt_work"]},
     {"id":"200","type":"credits","reset_kind":"banked","scope":"global","source":"archive","source_label":"Verified archive","confidence":"high","preview":false,"summary":"Banked reset","url":"https://x.com/example/status/200","announced_at":"2026-01-02T00:00:00Z"},
-    {"id":"300","type":"reset","scope":"global","source":"live","source_label":"Live radar feed","confidence":"medium","preview":true,"summary":"Timed preview","url":"https://x.com/example/status/300","announced_at":"2026-01-03T00:00:00Z","official_window":{"start_at":"2026-01-03T02:00:00Z","end_at":"2026-01-03T03:00:00Z"}},
+    {"id":"300","type":"reset","scope":"global","source":"live","source_label":"Live radar feed","confidence":"medium","preview":true,"announcement_state":"hinted","summary":"Timed preview","url":"https://x.com/example/status/300","announced_at":"2026-01-03T00:00:00Z","official_window":{"start_at":"2026-01-03T02:00:00Z","end_at":"2026-01-03T03:00:00Z"}},
     {"id":"400","type":"limits","scope":"global","source":"archive","confidence":"high","preview":false,"summary":"Generic limits discussion","url":"https://x.com/example/status/400","announced_at":"2026-01-04T00:00:00Z"},
     {"id":"100","type":"reset","scope":"global","source":"archive","confidence":"high","preview":false,"summary":"Duplicate","url":"https://x.com/example/status/100","announced_at":"2026-01-01T00:00:00Z"}
   ]

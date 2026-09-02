@@ -21,5 +21,12 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m unittest discover -s tests -v
-      - run: python scripts/generate_ics.py --input data/events.json --output /tmp/resets.ics
-      - run: diff -u docs/resets.ics /tmp/resets.ics
+      - run: python scripts/generate_ics.py --input data/events.json --output docs/resets.ics
+      - name: Commit generated calendar when data changed
+        run: |
+          if git diff --quiet -- docs/resets.ics; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/resets.ics
+          git commit -m 'Generate reset calendar'
+          git push

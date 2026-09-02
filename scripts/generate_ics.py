@@ -46,17 +46,28 @@ def is_confirmed(event: dict) -> bool:
 def classify(event: dict) -> str | None:
     if event.get("scope") != "global":
         return None
-    if event.get("type") == "credits" and event.get("reset_kind") == "banked":
+    archive = event.get("source") == "archive" and event.get("confidence") == "high"
+    cloud = event.get("source") == "cloud_task" and event.get("confidence") == "high"
+    if event.get("type") == "credits" and event.get("reset_kind") == "banked" and (archive or cloud):
         return "banked"
+    if event.get("type") == "credits" and archive and not event.get("preview"):
+        return "banked"
+    if event.get("type") == "promo" and archive and not event.get("preview"):
+        return "confirmed"
     if event.get("type") != "reset":
         return None
     if event.get("preview"):
-        return "tentative"
+        timed_live_preview = event.get("source") == "live" and event.get("announcement_state") in {"announced", "hinted"} and (event.get("official_window") or {}).get("start_at")
+        return "tentative" if (archive or cloud or timed_live_preview) else None
     if is_confirmed(event):
+        return "confirmed"
+    if cloud and event.get("announcement_state") == "confirmed":
         return "confirmed"
     # The feed's live, non-archived reset announcements are deliberately not
     # upgraded to confirmations here.
-    if event.get("announcement_state") in {"announced", "hinted"}:
+    if cloud and event.get("announcement_state") == "announced":
+        return "tentative"
+    if event.get("source") == "live" and event.get("announcement_state") in {"announced", "hinted"}:
         return "tentative"
     return None
 
@@ -110,7 +121,7 @@ def vevent(event: dict) -> list[str]:
     )
     return [
         "BEGIN:VEVENT",
-        f"UID=codex-reset-{event['id']}@adamcoulteroz.github.io",
+        f"UID:codex-reset-{event['id']}@adamcoulteroz.github.io",
         f"DTSTAMP:{ical_time(event['start'])}",
         f"DTSTART:{ical_time(event['start'])}",
         f"DTEND:{ical_time(event['end'])}",
@@ -127,7 +138,7 @@ def generate(feed: dict) -> str:
     lines = [
         "BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Adam Coulter//Codex Reset Calendar//EN",
         "CALSCALE:GREGORIAN", "METHOD:PUBLISH", "X-WR-CALNAME:Codex Reset Calendar",
-        "X-WR-TIMEZONE:UTC", "REFRESH-INTERVAL;VALUE=DURATION:PT15M", "X-PUBLISHED-TTL:PT15M",
+        "X-WR-TIMEZONE:UTC", "REFRESH-INTERVAL;VALUE=DURATION:PT1H", "X-PUBLISHED-TTL:PT1H",
     ]
     for event in normalized_events(feed):
         lines.extend(vevent(event))
