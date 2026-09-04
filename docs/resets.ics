@@ -775,10 +775,11 @@ DTEND:20260829T211334Z
 SUMMARY:Announced/tentative usage reset
 DESCRIPTION:We are reseting usage for all paid users of Codex and ChatGPT W
  ork.\n\nPlease continue reading for an update on Codex usage limits. The t
- eam has been working around the clock\, going\\n\\nClassification: tentati
- ve\\nScope: global\\nConfidence: medium\\nTiming provenance: announced_at\
- \nAudience: not specified\\nSource: Live radar feed\\nOriginal X post: htt
- ps://x.com/thsottiaux/status/2093801758665715784
+ eam has been working around the clock\, going through thousands of reports
+  and shipping fixes.\\n\\nClassification: tentative\\nScope: global\\nConf
+ idence: medium\\nTiming provenance: announced_at\\nAudience: not specified
+ \\nSource: Live radar feed\\nOriginal X post: https://x.com/thsottiaux/sta
+ tus/2093801758665715784
 URL:https://x.com/thsottiaux/status/2093801758665715784
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -812,6 +813,22 @@ DESCRIPTION:Paid ChatGPT users without Astra access will receive one banked
  \\nAudience: not specified\\nSource: cloud_task\\nOriginal X post: https:/
  /x.com/thsottiaux/status/2095651088502591861
 URL:https://x.com/thsottiaux/status/2095651088502591861
+CATEGORIES:banked
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:codex-reset-2095979536043401428@adamcoulteroz.github.io
+DTSTAMP:20260904T205717Z
+DTSTART:20260904T205717Z
+DTEND:20260904T212717Z
+SUMMARY:Confirmed banked reset
+DESCRIPTION:Some Plus and Business users without Astra access on September 
+ 4 will receive a banked reset\, announced to land by end of day\; accounts
+  created by 8pm PT are also eligible.\\n\\nClassification: banked\\nScope:
+  global\\nConfidence: high\\nTiming provenance: announced_at\\nAudience: n
+ ot specified\\nSource: cloud_task\\nOriginal X post: https://x.com/thsotti
+ aux/status/2095979536043401428
+URL:https://x.com/thsottiaux/status/2095979536043401428
 CATEGORIES:banked
 STATUS:CONFIRMED
 END:VEVENT
