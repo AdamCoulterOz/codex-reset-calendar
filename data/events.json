@@ -1164,6 +1164,20 @@
       "reset_kind": "hard",
       "group": "reset",
       "announced_at": "2026-08-31T02:34:27.000Z"
+    },
+    {
+      "id": "2095651088502591861",
+      "url": "https://x.com/thsottiaux/status/2095651088502591861",
+      "summary": "Paid ChatGPT users without Astra access will receive one banked reset for each day they remain without access, starting September 3; the first was announced to land in about three hours.",
+      "announced_at": "2026-09-03T23:12:09.000Z",
+      "scope": "global",
+      "source": "cloud_task",
+      "confidence": "high",
+      "group": "credits",
+      "type": "credits",
+      "reset_kind": "banked",
+      "announcement_state": "confirmed",
+      "preview": false
     }
   ]
 }
