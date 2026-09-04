@@ -799,4 +799,20 @@ URL:https://x.com/thsottiaux/status/2094252447271366730
 CATEGORIES:confirmed
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:codex-reset-2095651088502591861@adamcoulteroz.github.io
+DTSTAMP:20260903T231209Z
+DTSTART:20260903T231209Z
+DTEND:20260903T234209Z
+SUMMARY:Confirmed banked reset
+DESCRIPTION:Paid ChatGPT users without Astra access will receive one banked
+  reset for each day they remain without access\, starting September 3\; th
+ e first was announced to land in about three hours.\\n\\nClassification: b
+ anked\\nScope: global\\nConfidence: high\\nTiming provenance: announced_at
+ \\nAudience: not specified\\nSource: cloud_task\\nOriginal X post: https:/
+ /x.com/thsottiaux/status/2095651088502591861
+URL:https://x.com/thsottiaux/status/2095651088502591861
+CATEGORIES:banked
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
