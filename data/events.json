@@ -1192,6 +1192,20 @@
       "reset_kind": "banked",
       "announcement_state": "confirmed",
       "preview": false
+    },
+    {
+      "id": "2096035437299237298",
+      "url": "https://x.com/thsottiaux/status/2096035437299237298",
+      "summary": "A full banked reset was announced for all Plus, Pro and Business users after Astra rolled out ahead of schedule, with delivery by end of day; the post does not specify the timezone for that deadline.",
+      "announced_at": "2026-09-05T00:39:25.000Z",
+      "scope": "global",
+      "source": "cloud_task",
+      "confidence": "high",
+      "group": "credits",
+      "type": "credits",
+      "reset_kind": "banked",
+      "announcement_state": "confirmed",
+      "preview": false
     }
   ]
 }
