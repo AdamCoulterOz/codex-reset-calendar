@@ -110,14 +110,13 @@ def title(event: dict) -> str:
 def vevent(event: dict) -> list[str]:
     audience = ", ".join(event.get("audience") or []) or "not specified"
     description = (
-        f"{event.get('summary', '').strip()}\\n\\n"
-        f"Classification: {event['classification']}\\n"
-        f"Scope: {event.get('scope', 'not specified')}\\n"
-        f"Confidence: {event.get('confidence', 'not specified')}\\n"
-        f"Timing provenance: {event['timing_provenance']}\\n"
-        f"Audience: {audience}\\n"
-        f"Source: {event.get('source_label', event.get('source', 'not specified'))}\\n"
-        f"Original X post: {event['url']}"
+        f"{event.get('summary', '').strip()}\n\n"
+        f"Classification: {event['classification']}\n"
+        f"Scope: {event.get('scope', 'not specified')}\n"
+        f"Confidence: {event.get('confidence', 'not specified')}\n"
+        f"Timing provenance: {event['timing_provenance']}\n"
+        f"Audience: {audience}\n"
+        f"Source: {event.get('source_label', event.get('source', 'not specified'))}"
     )
     return [
         "BEGIN:VEVENT",
