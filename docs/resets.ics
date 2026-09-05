@@ -15,10 +15,9 @@ DTEND:20250917T043252Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:We have reset everyone's limits for gpt-5-codex to allow you al
  l to benefit more from it today and as a way to make up for the slowdowns 
- earlier while we were provisioning…\\n\\nClassification: confirmed\\nSco
- pe: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudience
- : not specified\\nSource: Verified archive\\nOriginal X post: https://x.co
- m/thsottiaux/status/1968163721034994139
+ earlier while we were provisioning…\n\nClassification: confirmed\nScope:
+  global\nConfidence: high\nTiming provenance: announced_at\nAudience: not 
+ specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/1968163721034994139
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -31,10 +30,9 @@ DTEND:20251105T204929Z
 SUMMARY:Announced/tentative usage reset
 DESCRIPTION:Codex outage resolved. We suffered a minor outage for last 45 m
  inutes which turned into a global outage for last 30 minutes\, this is now
-  resolved and we have reset the rate…\\n\\nClassification: tentative\\nS
- cope: global\\nConfidence: high\\nTiming provenance: official_window\\nAud
- ience: not specified\\nSource: Verified archive\\nOriginal X post: https:/
- /x.com/thsottiaux/status/1986166501435711936
+  resolved and we have reset the rate…\n\nClassification: tentative\nScop
+ e: global\nConfidence: high\nTiming provenance: official_window\nAudience:
+  not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/1986166501435711936
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -47,10 +45,9 @@ DTEND:20251122T234356Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:We have reset rate limits for all Codex users to compensate for
   the unusual high latencies in or near the US in the previous hours. Grate
- ful for the team working hard behind the…\\n\\nClassification: confirmed
- \\nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAu
- dience: not specified\\nSource: Verified archive\\nOriginal X post: https:
- //x.com/thsottiaux/status/1992370994028388670
+ ful for the team working hard behind the…\n\nClassification: confirmed\n
+ Scope: global\nConfidence: high\nTiming provenance: announced_at\nAudience
+ : not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/1992370994028388670
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -63,10 +60,9 @@ DTEND:20251202T231902Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:We have reset the usage limits for everyone in Codex\, which he
  lps us mitigate the issue the fastest and the team will continue to work o
- n the underlying cause. This should…\\n\\nClassification: confirmed\\nSc
- ope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudienc
- e: not specified\\nSource: Verified archive\\nOriginal X post: https://x.c
- om/thsottiaux/status/1995988609896513743
+ n the underlying cause. This should…\n\nClassification: confirmed\nScope
+ : global\nConfidence: high\nTiming provenance: announced_at\nAudience: not
+  specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/1995988609896513743
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -79,10 +75,9 @@ DTEND:20251217T024814Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Didn’t need to do this in a while\, but you know the drill. W
  e have reset everyone’s usage limits\, enjoy more Codex and apologies fo
- r the disruption.\\n\\nClassification: confirmed\\nScope: global\\nConfide
- nce: high\\nTiming provenance: announced_at\\nAudience: not specified\\nSo
- urce: Verified archive\\nOriginal X post: https://x.com/thsottiaux/status/
- 2001114683047317723
+ r the disruption.\n\nClassification: confirmed\nScope: global\nConfidence:
+  high\nTiming provenance: announced_at\nAudience: not specified\nSource: V
+ erified archive
 URL:https://x.com/thsottiaux/status/2001114683047317723
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -95,10 +90,9 @@ DTEND:20251219T223137Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:We rewrote the underlying system to track and bill usage in Cod
  ex and we have reset usage limits in the process. Backfilling is time cons
- uming and it’s more fun to give free…\\n\\nClassification: confirmed\\
- nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudi
- ence: not specified\\nSource: Verified archive\\nOriginal X post: https://
- x.com/thsottiaux/status/2002137269134819610
+ uming and it’s more fun to give free…\n\nClassification: confirmed\nSc
+ ope: global\nConfidence: high\nTiming provenance: announced_at\nAudience: 
+ not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2002137269134819610
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -110,10 +104,9 @@ DTSTART:20251225T080103Z
 DTEND:20251225T083103Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Holiday gift: reset rate limits AND lifted usage limits to 2X t
- he usual until Jan 1.\\n\\nClassification: confirmed\\nScope: global\\nCon
- fidence: high\\nTiming provenance: announced_at\\nAudience: not specified\
- \nSource: Verified archive\\nOriginal X post: https://x.com/thsottiaux/sta
- tus/2004100061933064395
+ he usual until Jan 1.\n\nClassification: confirmed\nScope: global\nConfide
+ nce: high\nTiming provenance: announced_at\nAudience: not specified\nSourc
+ e: Verified archive
 URL:https://x.com/thsottiaux/status/2004100061933064395
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -126,10 +119,9 @@ DTEND:20260303T022007Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Codex is back up. We introduced an issue that caused requests t
  o be blocked and rejected as high cyber risk. This was fixed in ~8 mins an
- d we are now back online and fully…\\n\\nClassification: confirmed\\nSco
- pe: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudience
- : not specified\\nSource: Verified archive\\nOriginal X post: https://x.co
- m/thsottiaux/status/2028649088594436225
+ d we are now back online and fully…\n\nClassification: confirmed\nScope:
+  global\nConfidence: high\nTiming provenance: announced_at\nAudience: not 
+ specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2028649088594436225
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -141,10 +133,9 @@ DTSTART:20260304T213047Z
 DTEND:20260304T220047Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Fixed a bug where the 2X promotional limit increase was not app
- lied to ~9% of Plus/Pro users\; reset limits to compensate.\\n\\nClassific
- ation: confirmed\\nScope: global\\nConfidence: high\\nTiming provenance: a
- nnounced_at\\nAudience: not specified\\nSource: Verified archive\\nOrigina
- l X post: https://x.com/thsottiaux/status/2029308599835738218
+ lied to ~9% of Plus/Pro users\; reset limits to compensate.\n\nClassificat
+ ion: confirmed\nScope: global\nConfidence: high\nTiming provenance: announ
+ ced_at\nAudience: not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2029308599835738218
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -157,10 +148,9 @@ DTEND:20260308T031213Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:We don’t have evidence of a widespread issue with codex usage
   being drained faster than it should but there are enough reports and we h
- ave reset rate limits for plus & pro…\\n\\nClassification: confirmed\\nS
- cope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudien
- ce: not specified\\nSource: Verified archive\\nOriginal X post: https://x.
- com/thsottiaux/status/2030474136024400173
+ ave reset rate limits for plus & pro…\n\nClassification: confirmed\nScop
+ e: global\nConfidence: high\nTiming provenance: announced_at\nAudience: no
+ t specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2030474136024400173
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -173,10 +163,9 @@ DTEND:20260311T035143Z
 SUMMARY:Announced/tentative usage reset
 DESCRIPTION:This codex issue is now fully resolved and stable for the last 
  couple of hours. You have come to expect it\, but yes\, that means we will
-  be reseting rate limits in a bit. Enjoy.\\n\\nClassification: tentative\\
- nScope: global\\nConfidence: high\\nTiming provenance: official_window\\nA
- udience: not specified\\nSource: Verified archive\\nOriginal X post: https
- ://x.com/thsottiaux/status/2031216405266481489
+  be reseting rate limits in a bit. Enjoy.\n\nClassification: tentative\nSc
+ ope: global\nConfidence: high\nTiming provenance: official_window\nAudienc
+ e: not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2031216405266481489
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -188,10 +177,9 @@ DTSTART:20260311T053813Z
 DTEND:20260311T060813Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:OK\, Codex is back and stable and we should be good for a while
- . Reset button pressed\, should see it in a bit\\n\\nClassification: confi
- rmed\\nScope: global\\nConfidence: high\\nTiming provenance: announced_at\
- \nAudience: not specified\\nSource: Verified archive\\nOriginal X post: ht
- tps://x.com/thsottiaux/status/2031605592352313567
+ . Reset button pressed\, should see it in a bit\n\nClassification: confirm
+ ed\nScope: global\nConfidence: high\nTiming provenance: announced_at\nAudi
+ ence: not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2031605592352313567
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -204,10 +192,9 @@ DTEND:20260327T022228Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Hello. We have reset Codex usage limits across all plans to let
   everyone experiment with the magnificent plugins we just launched\, and b
- ecause it had been a while! You can just…\\n\\nClassification: confirmed
- \\nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAu
- dience: not specified\\nSource: Verified archive\\nOriginal X post: https:
- //x.com/thsottiaux/status/2037346989244096581
+ ecause it had been a while! You can just…\n\nClassification: confirmed\n
+ Scope: global\nConfidence: high\nTiming provenance: announced_at\nAudience
+ : not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2037346989244096581
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -220,10 +207,9 @@ DTEND:20260401T081839Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Our Codex dashboards are showing increased rate of users hittin
  g rate limits and since we don't fully understand why I have made the caut
- ious decision of resetting the usage…\\n\\nClassification: confirmed\\nS
- cope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudien
- ce: not specified\\nSource: Verified archive\\nOriginal X post: https://x.
- com/thsottiaux/status/2039248564967424483
+ ious decision of resetting the usage…\n\nClassification: confirmed\nScop
+ e: global\nConfidence: high\nTiming provenance: announced_at\nAudience: no
+ t specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2039248564967424483
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -235,10 +221,9 @@ DTSTART:20260407T231348Z
 DTEND:20260407T234348Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:3M weekly Codex users milestone (up from 2M a month earlier)\; 
- reset rate limits to celebrate.\\n\\nClassification: confirmed\\nScope: gl
- obal\\nConfidence: high\\nTiming provenance: announced_at\\nAudience: not 
- specified\\nSource: Verified archive\\nOriginal X post: https://x.com/thso
- ttiaux/status/2041655710346572085
+ reset rate limits to celebrate.\n\nClassification: confirmed\nScope: globa
+ l\nConfidence: high\nTiming provenance: announced_at\nAudience: not specif
+ ied\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2041655710346572085
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -250,10 +235,9 @@ DTSTART:20260409T175128Z
 DTEND:20260409T182128Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Launched the $100 plan with a lot of included Codex usage\; res
- et limits alongside it.\\n\\nClassification: confirmed\\nScope: global\\nC
- onfidence: high\\nTiming provenance: announced_at\\nAudience: not specifie
- d\\nSource: Verified archive\\nOriginal X post: https://x.com/thsottiaux/s
- tatus/2042299371602264319
+ et limits alongside it.\n\nClassification: confirmed\nScope: global\nConfi
+ dence: high\nTiming provenance: announced_at\nAudience: not specified\nSou
+ rce: Verified archive
 URL:https://x.com/thsottiaux/status/2042299371602264319
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -265,10 +249,9 @@ DTSTART:20260417T005821Z
 DTEND:20260417T012821Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Codex 1-year anniversary: let Codex reset its own rate limits a
- cross all plans.\\n\\nClassification: confirmed\\nScope: global\\nConfiden
- ce: high\\nTiming provenance: announced_at\\nAudience: not specified\\nSou
- rce: Verified archive\\nOriginal X post: https://x.com/thsottiaux/status/2
- 044943514832871564
+ cross all plans.\n\nClassification: confirmed\nScope: global\nConfidence: 
+ high\nTiming provenance: announced_at\nAudience: not specified\nSource: Ve
+ rified archive
 URL:https://x.com/thsottiaux/status/2044943514832871564
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -281,10 +264,9 @@ DTEND:20260420T234521Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Codex incident is mitigated\, seeing recovery. Lasted about 10 
  mins\, Codex itself helped with the remediation\, but ultimately the insig
- ht came from a human this time. Apologies for…\\n\\nClassification: conf
- irmed\\nScope: global\\nConfidence: high\\nTiming provenance: announced_at
- \\nAudience: not specified\\nSource: Verified archive\\nOriginal X post: h
- ttps://x.com/thsottiaux/status/2046367145588916687
+ ht came from a human this time. Apologies for…\n\nClassification: confir
+ med\nScope: global\nConfidence: high\nTiming provenance: announced_at\nAud
+ ience: not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2046367145588916687
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -296,10 +278,9 @@ DTSTART:20260428T052843Z
 DTEND:20260428T055843Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Reset Codex rate limits for ALL paid plans to celebrate a good 
- week and let everyone build with GPT-5.5.\\n\\nClassification: confirmed\\
- nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudi
- ence: not specified\\nSource: Verified archive\\nOriginal X post: https://
- x.com/thsottiaux/status/2048997818673537399
+ week and let everyone build with GPT-5.5.\n\nClassification: confirmed\nSc
+ ope: global\nConfidence: high\nTiming provenance: announced_at\nAudience: 
+ not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2048997818673537399
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -311,10 +292,9 @@ DTSTART:20260516T175103Z
 DTEND:20260516T182103Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Codex usage limits have now been reset across all paid plans. E
- njoy the weekend!\\n\\nClassification: confirmed\\nScope: global\\nConfide
- nce: high\\nTiming provenance: announced_at\\nAudience: not specified\\nSo
- urce: Verified archive\\nOriginal X post: https://x.com/thsottiaux/status/
- 2055707616605835333
+ njoy the weekend!\n\nClassification: confirmed\nScope: global\nConfidence:
+  high\nTiming provenance: announced_at\nAudience: not specified\nSource: V
+ erified archive
 URL:https://x.com/thsottiaux/status/2055707616605835333
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -327,10 +307,9 @@ DTEND:20260523T204435Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Some of you noticed limits drained faster in Codex\, we root ca
  used it to an optimization that we rolled back that had an impact on cache
-  hit rates when compacting across long…\\n\\nClassification: confirmed\\
- nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudi
- ence: not specified\\nSource: Verified archive\\nOriginal X post: https://
- x.com/thsottiaux/status/2058280452851638313
+  hit rates when compacting across long…\n\nClassification: confirmed\nSc
+ ope: global\nConfidence: high\nTiming provenance: announced_at\nAudience: 
+ not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2058280452851638313
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -343,10 +322,9 @@ DTEND:20260531T155506Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:The Codex usage limits have been reset for all paid ChatGPT sub
  scriptions. You should be back to 100% weekly and 100% hourly limits. Let 
- the tokens do incredible things today and…\\n\\nClassification: confirme
- d\\nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nA
- udience: not specified\\nSource: Verified archive\\nOriginal X post: https
- ://x.com/thsottiaux/status/2061106703446450392
+ the tokens do incredible things today and…\n\nClassification: confirmed\
+ nScope: global\nConfidence: high\nTiming provenance: announced_at\nAudienc
+ e: not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2061106703446450392
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -359,10 +337,9 @@ DTEND:20260604T005558Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Hi. Over the last 24 hours we had three separate small incident
  s that affected Codex reliability. Those are three too many and we are tak
- ing active steps for them to not…\\n\\nClassification: confirmed\\nScope
- : global\\nConfidence: high\\nTiming provenance: announced_at\\nAudience: 
- not specified\\nSource: Verified archive\\nOriginal X post: https://x.com/
- thsottiaux/status/2062329981548802523
+ ing active steps for them to not…\n\nClassification: confirmed\nScope: g
+ lobal\nConfidence: high\nTiming provenance: announced_at\nAudience: not sp
+ ecified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2062329981548802523
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -374,10 +351,9 @@ DTSTART:20260618T001010Z
 DTEND:20260618T004010Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:"Sneaky double reset": full reset applied plus an extra reset d
- eposited into the reset bank.\\n\\nClassification: confirmed\\nScope: glob
- al\\nConfidence: high\\nTiming provenance: announced_at\\nAudience: not sp
- ecified\\nSource: Verified archive\\nOriginal X post: https://x.com/thsott
- iaux/status/2067399435009622521
+ eposited into the reset bank.\n\nClassification: confirmed\nScope: global\
+ nConfidence: high\nTiming provenance: announced_at\nAudience: not specifie
+ d\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2067399435009622521
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -390,10 +366,9 @@ DTEND:20260627T023948Z
 SUMMARY:Announced/tentative usage reset
 DESCRIPTION:We are giving all Codex users a usage reset on the house. Shoul
  d be showing in your accounts in the next few hours. We have applied some 
- mitigations\, but our investigation hasn't…\\n\\nClassification: tentati
- ve\\nScope: global\\nConfidence: high\\nTiming provenance: official_window
- \\nAudience: not specified\\nSource: Verified archive\\nOriginal X post: h
- ttps://x.com/thsottiaux/status/2070653282440405046
+ mitigations\, but our investigation hasn't…\n\nClassification: tentative
+ \nScope: global\nConfidence: high\nTiming provenance: official_window\nAud
+ ience: not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2070653282440405046
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -406,10 +381,9 @@ DTEND:20260629T002407Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:As we are still investigating\, I have reset everyone's Codex u
  sage limits. This is a hard reset given some users had stacked up to three
-  banked resets already that they can apply…\\n\\nClassification: confirm
- ed\\nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\n
- Audience: not specified\\nSource: Verified archive\\nOriginal X post: http
- s://x.com/thsottiaux/status/2071381664853319742
+  banked resets already that they can apply…\n\nClassification: confirmed
+ \nScope: global\nConfidence: high\nTiming provenance: announced_at\nAudien
+ ce: not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2071381664853319742
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -421,10 +395,9 @@ DTSTART:20260629T233941Z
 DTEND:20260630T003941Z
 SUMMARY:Announced/tentative usage reset
 DESCRIPTION:Full reset within the hour plus one additional banked reset\, a
- fter usage was being consumed faster than expected.\\n\\nClassification: t
- entative\\nScope: global\\nConfidence: high\\nTiming provenance: official_
- window\\nAudience: not specified\\nSource: Verified archive\\nOriginal X p
- ost: https://x.com/thsottiaux/status/2071740419030053227
+ fter usage was being consumed faster than expected.\n\nClassification: ten
+ tative\nScope: global\nConfidence: high\nTiming provenance: official_windo
+ w\nAudience: not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2071740419030053227
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -437,10 +410,9 @@ DTEND:20260709T222411Z
 SUMMARY:Announced/tentative usage reset
 DESCRIPTION:Enjoy a full reset of your usage limits for ChatGPT Work and Co
  dex. Propagating in the next hour. @_rajanagarwal just joined to work on m
- odel research and push on coding…\\n\\nClassification: tentative\\nScope
- : global\\nConfidence: high\\nTiming provenance: official_window\\nAudienc
- e: not specified\\nSource: Verified archive\\nOriginal X post: https://x.c
- om/thsottiaux/status/2075330198887940337
+ odel research and push on coding…\n\nClassification: tentative\nScope: g
+ lobal\nConfidence: high\nTiming provenance: official_window\nAudience: not
+  specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2075330198887940337
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -453,10 +425,9 @@ DTEND:20260711T065959Z
 SUMMARY:Announced/tentative usage reset
 DESCRIPTION:Hello beautiful people! We have reset usage limits across Codex
   and ChatGPT Work. And another one will come later in the day. Rejoice. No
- w that I have your attention\, a quick…\\n\\nClassification: tentative\\
- nScope: global\\nConfidence: high\\nTiming provenance: official_window\\nA
- udience: not specified\\nSource: Verified archive\\nOriginal X post: https
- ://x.com/thsottiaux/status/2075641131002700120
+ w that I have your attention\, a quick…\n\nClassification: tentative\nSc
+ ope: global\nConfidence: high\nTiming provenance: official_window\nAudienc
+ e: not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2075641131002700120
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -469,10 +440,9 @@ DTEND:20260711T062425Z
 SUMMARY:Announced/tentative usage reset
 DESCRIPTION:Introducing... another usage limit reset for all our ChatGPT Wo
  rk and Codex users. Should land over next 30 minutes. Hope you have an awe
- some weekend. Thank you for pushing our…\\n\\nClassification: tentative\
- \nScope: global\\nConfidence: high\\nTiming provenance: official_window\\n
- Audience: not specified\\nSource: Verified archive\\nOriginal X post: http
- s://x.com/thsottiaux/status/2075820987833274448
+ some weekend. Thank you for pushing our…\n\nClassification: tentative\nS
+ cope: global\nConfidence: high\nTiming provenance: official_window\nAudien
+ ce: not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2075820987833274448
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -484,10 +454,9 @@ DTSTART:20260712T212859Z
 DTEND:20260712T215859Z
 SUMMARY:Confirmed banked reset
 DESCRIPTION:Added a banked reset to 500k ChatGPT Work/Codex users\; shipped
-  banked-reset redemption on web and mobile.\\n\\nClassification: banked\\n
- Scope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudie
- nce: not specified\\nSource: Verified archive\\nOriginal X post: https://x
- .com/thsottiaux/status/2076418567143408112
+  banked-reset redemption on web and mobile.\n\nClassification: banked\nSco
+ pe: global\nConfidence: high\nTiming provenance: announced_at\nAudience: n
+ ot specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2076418567143408112
 CATEGORIES:banked
 STATUS:CONFIRMED
@@ -499,10 +468,9 @@ DTSTART:20260713T182931Z
 DTEND:20260713T185931Z
 SUMMARY:Confirmed banked reset
 DESCRIPTION:7M active users milestone: added a banked reset to every accoun
- t\, appliable on demand from desktop/web.\\n\\nClassification: banked\\nSc
- ope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudienc
- e: not specified\\nSource: Verified archive\\nOriginal X post: https://x.c
- om/thsottiaux/status/2076735790567338203
+ t\, appliable on demand from desktop/web.\n\nClassification: banked\nScope
+ : global\nConfidence: high\nTiming provenance: announced_at\nAudience: not
+  specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2076735790567338203
 CATEGORIES:banked
 STATUS:CONFIRMED
@@ -514,10 +482,9 @@ DTSTART:20260714T193454Z
 DTEND:20260714T200454Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:8M active users across Codex and ChatGPT Work: reset for all\, 
- and still no 5h rate limit\, to explore GPT-5.6 Sol.\\n\\nClassification: 
- confirmed\\nScope: global\\nConfidence: high\\nTiming provenance: announce
- d_at\\nAudience: not specified\\nSource: Verified archive\\nOriginal X pos
- t: https://x.com/thsottiaux/status/2077114635308986427
+ and still no 5h rate limit\, to explore GPT-5.6 Sol.\n\nClassification: co
+ nfirmed\nScope: global\nConfidence: high\nTiming provenance: announced_at\
+ nAudience: not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2077114635308986427
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -529,10 +496,9 @@ DTSTART:20260716T041409Z
 DTEND:20260716T044409Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:9M active users: another reset\, restoring 100% weekly usage li
- mit.\\n\\nClassification: confirmed\\nScope: global\\nConfidence: high\\nT
- iming provenance: announced_at\\nAudience: not specified\\nSource: Verifie
- d archive\\nOriginal X post: https://x.com/thsottiaux/status/2077607697487
- 188198
+ mit.\n\nClassification: confirmed\nScope: global\nConfidence: high\nTiming
+  provenance: announced_at\nAudience: not specified\nSource: Verified archi
+ ve
 URL:https://x.com/thsottiaux/status/2077607697487188198
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -545,10 +511,9 @@ DTEND:20260718T035822Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Oops... I did it again. Enjoy reset usage limits for all paid u
  sers for Codex and ChatGPT Work. Super grateful for an incredible team who
-  is iterating at lightspeed and keeping…\\n\\nClassification: confirmed\
- \nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAud
- ience: not specified\\nSource: Verified archive\\nOriginal X post: https:/
- /x.com/thsottiaux/status/2078320950488297917
+  is iterating at lightspeed and keeping…\n\nClassification: confirmed\nS
+ cope: global\nConfidence: high\nTiming provenance: announced_at\nAudience:
+  not specified\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2078320950488297917
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -560,10 +525,9 @@ DTSTART:20260721T164715Z
 DTEND:20260721T174715Z
 SUMMARY:Announced/tentative usage reset
 DESCRIPTION:10M users: new usage reset for paid Codex and ChatGPT Work user
- s\, landing within the hour.\\n\\nClassification: tentative\\nScope: globa
- l\\nConfidence: high\\nTiming provenance: official_window\\nAudience: not 
- specified\\nSource: Verified archive\\nOriginal X post: https://x.com/thso
- ttiaux/status/2079609157934886975
+ s\, landing within the hour.\n\nClassification: tentative\nScope: global\n
+ Confidence: high\nTiming provenance: official_window\nAudience: not specif
+ ied\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2079609157934886975
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -575,10 +539,9 @@ DTSTART:20260725T191712Z
 DTEND:20260725T194712Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Usage limits reset for all Codex and ChatGPT Work users after a
- n almost-global outage the previous night.\\n\\nClassification: confirmed\
- \nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAud
- ience: codex\, chatgpt_work\\nSource: Verified archive\\nOriginal X post: 
- https://x.com/thsottiaux/status/2081096447718723984
+ n almost-global outage the previous night.\n\nClassification: confirmed\nS
+ cope: global\nConfidence: high\nTiming provenance: announced_at\nAudience:
+  codex\, chatgpt_work\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2081096447718723984
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -590,10 +553,9 @@ DTSTART:20260728T030923Z
 DTEND:20260728T033923Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Back at the laptop: usage limits reset for all paid users of Co
- dex and ChatGPT Work.\\n\\nClassification: confirmed\\nScope: global\\nCon
- fidence: high\\nTiming provenance: announced_at\\nAudience: codex\, chatgp
- t_work\\nSource: Verified archive\\nOriginal X post: https://x.com/thsotti
- aux/status/2081940052154933696
+ dex and ChatGPT Work.\n\nClassification: confirmed\nScope: global\nConfide
+ nce: high\nTiming provenance: announced_at\nAudience: codex\, chatgpt_work
+ \nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2081940052154933696
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -605,10 +567,9 @@ DTSTART:20260801T033237Z
 DTEND:20260801T040237Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Usage limits reset for Codex and ChatGPT Work to celebrate a we
- ek of efficiency and GPT-5.6 Luna throughput.\\n\\nClassification: confirm
- ed\\nScope: global\\nConfidence: high\\nTiming provenance: announced_at\\n
- Audience: codex\, chatgpt_work\\nSource: Verified archive\\nOriginal X pos
- t: https://x.com/thsottiaux/status/2083395449814229287
+ ek of efficiency and GPT-5.6 Luna throughput.\n\nClassification: confirmed
+ \nScope: global\nConfidence: high\nTiming provenance: announced_at\nAudien
+ ce: codex\, chatgpt_work\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2083395449814229287
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -620,10 +581,9 @@ DTSTART:20260808T202922Z
 DTEND:20260808T205922Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Usage limits reset for all paid users of ChatGPT Work and Codex
-  to celebrate GPT-5.6 Sol availability.\\n\\nClassification: confirmed\\nS
- cope: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudien
- ce: codex\, chatgpt_work\\nSource: Verified archive\\nOriginal X post: htt
- ps://x.com/thsottiaux/status/2086188036493344823
+  to celebrate GPT-5.6 Sol availability.\n\nClassification: confirmed\nScop
+ e: global\nConfidence: high\nTiming provenance: announced_at\nAudience: co
+ dex\, chatgpt_work\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2086188036493344823
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -635,10 +595,9 @@ DTSTART:20260811T002744Z
 DTEND:20260811T005744Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Hi. It is done. This completed the reset promised for Monday\; 
- the reference weekly-usage card returned to 100% remaining.\\n\\nClassific
- ation: confirmed\\nScope: global\\nConfidence: high\\nTiming provenance: a
- nnounced_at\\nAudience: codex\, chatgpt_work\\nSource: Verified archive\\n
- Original X post: https://x.com/thsottiaux/status/2086972802457063486
+ the reference weekly-usage card returned to 100% remaining.\n\nClassificat
+ ion: confirmed\nScope: global\nConfidence: high\nTiming provenance: announ
+ ced_at\nAudience: codex\, chatgpt_work\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2086972802457063486
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -651,10 +610,9 @@ DTEND:20260813T020137Z
 SUMMARY:Announced/tentative usage reset
 DESCRIPTION:Crossed 15M active users: a celebratory reset for everyone\, la
  nding within the hour — announced late as old news from a bunch of days 
- ago.\\n\\nClassification: tentative\\nScope: global\\nConfidence: high\\nT
- iming provenance: official_window\\nAudience: codex\, chatgpt_work\\nSourc
- e: Verified archive\\nOriginal X post: https://x.com/thsottiaux/status/208
- 7706104814023111
+ ago.\n\nClassification: tentative\nScope: global\nConfidence: high\nTiming
+  provenance: official_window\nAudience: codex\, chatgpt_work\nSource: Veri
+ fied archive
 URL:https://x.com/thsottiaux/status/2087706104814023111
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -667,10 +625,9 @@ DTEND:20260821T121319Z
 SUMMARY:Confirmed banked reset
 DESCRIPTION:20M active users milestone: announced one banked reset for ever
  y Codex and ChatGPT Work user\, credited during the day for on-demand use.
- \\n\\nClassification: banked\\nScope: global\\nConfidence: high\\nTiming p
- rovenance: announced_at\\nAudience: codex\, chatgpt_work\\nSource: Verifie
- d archive\\nOriginal X post: https://x.com/thsottiaux/status/2090766694897
- 619318
+ \n\nClassification: banked\nScope: global\nConfidence: high\nTiming proven
+ ance: announced_at\nAudience: codex\, chatgpt_work\nSource: Verified archi
+ ve
 URL:https://x.com/thsottiaux/status/2090766694897619318
 CATEGORIES:banked
 STATUS:CONFIRMED
@@ -682,10 +639,9 @@ DTSTART:20260821T234034Z
 DTEND:20260822T001034Z
 SUMMARY:Confirmed banked reset
 DESCRIPTION:Banked reset delivery window: arriving by 8pm PST for all paid 
- ChatGPT Work and Codex users.\\n\\nClassification: banked\\nScope: global\
- \nConfidence: high\\nTiming provenance: announced_at\\nAudience: codex\, c
- hatgpt_work\\nSource: Verified archive\\nOriginal X post: https://x.com/th
- sottiaux/status/2090947196107764189
+ ChatGPT Work and Codex users.\n\nClassification: banked\nScope: global\nCo
+ nfidence: high\nTiming provenance: announced_at\nAudience: codex\, chatgpt
+ _work\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2090947196107764189
 CATEGORIES:banked
 STATUS:CONFIRMED
@@ -697,10 +653,9 @@ DTSTART:20260822T005036Z
 DTEND:20260822T012036Z
 SUMMARY:Confirmed banked reset
 DESCRIPTION:The 20M-milestone banked reset landed in accounts for all paid 
- Codex and ChatGPT Work users\, redeemable on demand.\\n\\nClassification: 
- banked\\nScope: global\\nConfidence: high\\nTiming provenance: announced_a
- t\\nAudience: codex\, chatgpt_work\\nSource: Verified archive\\nOriginal X
-  post: https://x.com/thsottiaux/status/2090964822422949999
+ Codex and ChatGPT Work users\, redeemable on demand.\n\nClassification: ba
+ nked\nScope: global\nConfidence: high\nTiming provenance: announced_at\nAu
+ dience: codex\, chatgpt_work\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2090964822422949999
 CATEGORIES:banked
 STATUS:CONFIRMED
@@ -711,10 +666,9 @@ DTSTAMP:20260823T200000Z
 DTSTART:20260823T200000Z
 DTEND:20260823T220000Z
 SUMMARY:Announced/tentative usage reset
-DESCRIPTION:Reset will land around 14pm PST tomorrow.\\n\\nClassification: 
- tentative\\nScope: global\\nConfidence: medium\\nTiming provenance: offici
- al_window\\nAudience: not specified\\nSource: Live radar feed\\nOriginal X
-  post: https://x.com/thsottiaux/status/2091412393368945027
+DESCRIPTION:Reset will land around 14pm PST tomorrow.\n\nClassification: te
+ ntative\nScope: global\nConfidence: medium\nTiming provenance: official_wi
+ ndow\nAudience: not specified\nSource: Live radar feed
 URL:https://x.com/thsottiaux/status/2091412393368945027
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -727,10 +681,9 @@ DTEND:20260824T011651Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Good Sunday reset propagated to accounts\, alongside usage fixe
  s for the issues found the day before — "you should feel a positive diff
- erence."\\n\\nClassification: confirmed\\nScope: global\\nConfidence: high
- \\nTiming provenance: announced_at\\nAudience: codex\, chatgpt_work\\nSour
- ce: Verified archive\\nOriginal X post: https://x.com/thsottiaux/status/20
- 91688655828246890
+ erence."\n\nClassification: confirmed\nScope: global\nConfidence: high\nTi
+ ming provenance: announced_at\nAudience: codex\, chatgpt_work\nSource: Ver
+ ified archive
 URL:https://x.com/thsottiaux/status/2091688655828246890
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -743,10 +696,9 @@ DTEND:20260825T144500Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:Quiet reset for all paid plans — weekly usage back to 100% fr
  om ~14:00 UTC. Tibo confirmed it only in replies ("Ah yeah\, forgot to say
- ") ahead of the Plus 5h-limit return.\\n\\nClassification: confirmed\\nSco
- pe: global\\nConfidence: high\\nTiming provenance: announced_at\\nAudience
- : codex\, chatgpt_work\\nSource: Verified archive\\nOriginal X post: https
- ://x.com/thsottiaux/status/2092311059197808936
+ ") ahead of the Plus 5h-limit return.\n\nClassification: confirmed\nScope:
+  global\nConfidence: high\nTiming provenance: announced_at\nAudience: code
+ x\, chatgpt_work\nSource: Verified archive
 URL:https://x.com/thsottiaux/status/2092311059197808936
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -759,10 +711,9 @@ DTEND:20260827T170505Z
 SUMMARY:Announced/tentative usage reset
 DESCRIPTION:Never slept better and feeling reseted. Brand new me and brand 
  new usage for all ChatGPT Work and Codex users. Regaining my youth one but
- ton press at a time.\n\nHappy Thursday\\n\\nClassification: tentative\\nSc
- ope: global\\nConfidence: medium\\nTiming provenance: announced_at\\nAudie
- nce: not specified\\nSource: Live radar feed\\nOriginal X post: https://x.
- com/thsottiaux/status/2093014447833116908
+ ton press at a time.\n\nHappy Thursday\n\nClassification: tentative\nScope
+ : global\nConfidence: medium\nTiming provenance: announced_at\nAudience: n
+ ot specified\nSource: Live radar feed
 URL:https://x.com/thsottiaux/status/2093014447833116908
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -775,10 +726,9 @@ DTEND:20260829T211334Z
 SUMMARY:Announced/tentative usage reset
 DESCRIPTION:We are reseting usage for all paid users of Codex and ChatGPT W
  ork.\n\nPlease continue reading for an update on Codex usage limits. The t
- eam has been working around the clock\, going\\n\\nClassification: tentati
- ve\\nScope: global\\nConfidence: medium\\nTiming provenance: announced_at\
- \nAudience: not specified\\nSource: Live radar feed\\nOriginal X post: htt
- ps://x.com/thsottiaux/status/2093801758665715784
+ eam has been working around the clock\, going\n\nClassification: tentative
+ \nScope: global\nConfidence: medium\nTiming provenance: announced_at\nAudi
+ ence: not specified\nSource: Live radar feed
 URL:https://x.com/thsottiaux/status/2093801758665715784
 CATEGORIES:tentative
 STATUS:TENTATIVE
@@ -791,10 +741,9 @@ DTEND:20260831T030427Z
 SUMMARY:Confirmed usage reset
 DESCRIPTION:25M active users: to celebrate\, usage reset for every paid Cha
  tGPT Work and Codex subscription — the reset promised for 6pm PT the pre
- vious day.\\n\\nClassification: confirmed\\nScope: global\\nConfidence: hi
- gh\\nTiming provenance: announced_at\\nAudience: codex\, chatgpt_work\\nSo
- urce: Verified archive\\nOriginal X post: https://x.com/thsottiaux/status/
- 2094252447271366730
+ vious day.\n\nClassification: confirmed\nScope: global\nConfidence: high\n
+ Timing provenance: announced_at\nAudience: codex\, chatgpt_work\nSource: V
+ erified archive
 URL:https://x.com/thsottiaux/status/2094252447271366730
 CATEGORIES:confirmed
 STATUS:CONFIRMED
@@ -807,10 +756,9 @@ DTEND:20260903T234209Z
 SUMMARY:Confirmed banked reset
 DESCRIPTION:Paid ChatGPT users without Astra access will receive one banked
   reset for each day they remain without access\, starting September 3\; th
- e first was announced to land in about three hours.\\n\\nClassification: b
- anked\\nScope: global\\nConfidence: high\\nTiming provenance: announced_at
- \\nAudience: not specified\\nSource: cloud_task\\nOriginal X post: https:/
- /x.com/thsottiaux/status/2095651088502591861
+ e first was announced to land in about three hours.\n\nClassification: ban
+ ked\nScope: global\nConfidence: high\nTiming provenance: announced_at\nAud
+ ience: not specified\nSource: cloud_task
 URL:https://x.com/thsottiaux/status/2095651088502591861
 CATEGORIES:banked
 STATUS:CONFIRMED
@@ -823,10 +771,9 @@ DTEND:20260904T212717Z
 SUMMARY:Confirmed banked reset
 DESCRIPTION:Some Plus and Business users without Astra access on September 
  4 will receive a banked reset\, announced to land by end of day\; accounts
-  created by 8pm PT are also eligible.\\n\\nClassification: banked\\nScope:
-  global\\nConfidence: high\\nTiming provenance: announced_at\\nAudience: n
- ot specified\\nSource: cloud_task\\nOriginal X post: https://x.com/thsotti
- aux/status/2095979536043401428
+  created by 8pm PT are also eligible.\n\nClassification: banked\nScope: gl
+ obal\nConfidence: high\nTiming provenance: announced_at\nAudience: not spe
+ cified\nSource: cloud_task
 URL:https://x.com/thsottiaux/status/2095979536043401428
 CATEGORIES:banked
 STATUS:CONFIRMED
