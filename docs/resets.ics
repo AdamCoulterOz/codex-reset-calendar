@@ -778,4 +778,19 @@ URL:https://x.com/thsottiaux/status/2095979536043401428
 CATEGORIES:banked
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:codex-reset-2096035437299237298@adamcoulteroz.github.io
+DTSTAMP:20260905T003925Z
+DTSTART:20260905T003925Z
+DTEND:20260905T010925Z
+SUMMARY:Confirmed banked reset
+DESCRIPTION:A full banked reset was announced for all Plus\, Pro and Busine
+ ss users after Astra rolled out ahead of schedule\, with delivery by end o
+ f day\; the post does not specify the timezone for that deadline.\n\nClass
+ ification: banked\nScope: global\nConfidence: high\nTiming provenance: ann
+ ounced_at\nAudience: not specified\nSource: cloud_task
+URL:https://x.com/thsottiaux/status/2096035437299237298
+CATEGORIES:banked
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
