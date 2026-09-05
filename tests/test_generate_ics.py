@@ -38,6 +38,17 @@ class GeneratorTests(unittest.TestCase):
         self.assertEqual(text, generate_ics.generate(self.feed))
         self.assertTrue(all(len(line.encode("utf-8")) <= 75 for line in text.split("\r\n") if line))
 
+    def test_description_uses_single_escaped_newlines_and_url_property(self):
+        event = generate_ics.normalized_events(self.feed)[0]
+        lines = generate_ics.vevent(event)
+        description = next(line for line in lines if line.startswith("DESCRIPTION:"))
+        url = next(line for line in lines if line.startswith("URL:"))
+
+        self.assertIn("\\n\\nClassification:", description)
+        self.assertNotIn("\\\\n", description)
+        self.assertNotIn("Original X post:", description)
+        self.assertEqual(url, "URL:https://x.com/example/status/100")
+
     def test_utf8_octet_folding(self):
         lines = generate_ics.fold("SUMMARY:" + "é" * 50)
         self.assertGreater(len(lines), 1)
