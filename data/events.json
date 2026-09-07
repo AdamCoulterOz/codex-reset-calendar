@@ -545,9 +545,7 @@
       "source_label": "Verified archive",
       "official_window": null,
       "type": "reset",
-      "reason_tags": [
-        "incident"
-      ],
+      "reason_tags": [],
       "audience": [],
       "url": "https://x.com/thsottiaux/status/2071381664853319742",
       "id": "2071381664853319742",
