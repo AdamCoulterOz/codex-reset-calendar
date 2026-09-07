@@ -545,7 +545,9 @@
       "source_label": "Verified archive",
       "official_window": null,
       "type": "reset",
-      "reason_tags": [],
+      "reason_tags": [
+        "incident"
+      ],
       "audience": [],
       "url": "https://x.com/thsottiaux/status/2071381664853319742",
       "id": "2071381664853319742",
@@ -1206,6 +1208,19 @@
       "reset_kind": "banked",
       "announcement_state": "confirmed",
       "preview": false
+    },
+    {
+      "id": "2097043464538264003",
+      "url": "https://x.com/thsottiaux/status/2097043464538264003",
+      "summary": "Global usage reset announced for all paid subscriptions, landing around 6pm PST on September 7 so users can keep using Astra after heavy usage; the exact UTC time is uncertain because the post says 'around' and uses PST during Pacific daylight-saving time.",
+      "announced_at": "2026-09-07T19:24:57.000Z",
+      "scope": "global",
+      "source": "cloud_task",
+      "confidence": "high",
+      "group": "reset",
+      "type": "reset",
+      "announcement_state": "announced",
+      "preview": true
     }
   ]
 }
