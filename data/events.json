@@ -1219,6 +1219,19 @@
       "type": "reset",
       "announcement_state": "announced",
       "preview": true
+    },
+    {
+      "id": "2097174560412246215",
+      "url": "https://x.com/thsottiaux/status/2097174560412246215",
+      "summary": "Completed global usage reset confirmed with 'All reset for everyone,' following the previously announced reset for all paid subscriptions; users were told to enjoy the week with Astra.",
+      "announced_at": "2026-09-08T04:05:53.000Z",
+      "scope": "global",
+      "source": "cloud_task",
+      "confidence": "high",
+      "group": "reset",
+      "type": "reset",
+      "announcement_state": "confirmed",
+      "preview": false
     }
   ]
 }
