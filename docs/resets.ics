@@ -809,4 +809,19 @@ URL:https://x.com/thsottiaux/status/2097043464538264003
 CATEGORIES:tentative
 STATUS:TENTATIVE
 END:VEVENT
+BEGIN:VEVENT
+UID:codex-reset-2097174560412246215@adamcoulteroz.github.io
+DTSTAMP:20260908T040553Z
+DTSTART:20260908T040553Z
+DTEND:20260908T043553Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Completed global usage reset confirmed with 'All reset for ever
+ yone\,' following the previously announced reset for all paid subscription
+ s\; users were told to enjoy the week with Astra.\n\nClassification: confi
+ rmed\nScope: global\nConfidence: high\nTiming provenance: announced_at\nAu
+ dience: not specified\nSource: cloud_task
+URL:https://x.com/thsottiaux/status/2097174560412246215
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
