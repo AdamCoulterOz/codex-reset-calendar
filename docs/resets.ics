@@ -824,4 +824,19 @@ URL:https://x.com/thsottiaux/status/2097174560412246215
 CATEGORIES:confirmed
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:codex-reset-2097752790177370535@adamcoulteroz.github.io
+DTSTAMP:20260909T182334Z
+DTSTART:20260909T182334Z
+DTEND:20260909T185334Z
+SUMMARY:Confirmed banked reset
+DESCRIPTION:A compensating banked reset was granted to everyone who redeeme
+ d a banked reset during the affected window when some resets did not fully
+  apply in ChatGPT Work and Codex\; recipients will also receive an apology
+  email.\n\nClassification: banked\nScope: global\nConfidence: high\nTiming
+  provenance: announced_at\nAudience: not specified\nSource: cloud_task
+URL:https://x.com/thsottiaux/status/2097752790177370535
+CATEGORIES:banked
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
