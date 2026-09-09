@@ -1232,6 +1232,20 @@
       "type": "reset",
       "announcement_state": "confirmed",
       "preview": false
+    },
+    {
+      "id": "2097752790177370535",
+      "url": "https://x.com/thsottiaux/status/2097752790177370535",
+      "summary": "A compensating banked reset was granted to everyone who redeemed a banked reset during the affected window when some resets did not fully apply in ChatGPT Work and Codex; recipients will also receive an apology email.",
+      "announced_at": "2026-09-09T18:23:34.000Z",
+      "scope": "global",
+      "source": "cloud_task",
+      "confidence": "high",
+      "group": "credits",
+      "type": "credits",
+      "reset_kind": "banked",
+      "announcement_state": "confirmed",
+      "preview": false
     }
   ]
 }
