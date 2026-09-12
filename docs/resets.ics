@@ -854,4 +854,19 @@ URL:https://x.com/thsottiaux/status/2098612714704891959
 CATEGORIES:tentative
 STATUS:TENTATIVE
 END:VEVENT
+BEGIN:VEVENT
+UID:codex-reset-2098685367058612394@adamcoulteroz.github.io
+DTSTAMP:20260912T080917Z
+DTSTART:20260912T080917Z
+DTEND:20260912T083917Z
+SUMMARY:Confirmed usage reset
+DESCRIPTION:Completed global usage reset confirmed with 'Reset all propagat
+ ed. Sweet dreams\,' confirming the Astra usage reset announced earlier on 
+ September 12 had fully propagated.\n\nClassification: confirmed\nScope: gl
+ obal\nConfidence: high\nTiming provenance: announced_at\nAudience: not spe
+ cified\nSource: cloud_task
+URL:https://x.com/thsottiaux/status/2098685367058612394
+CATEGORIES:confirmed
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
