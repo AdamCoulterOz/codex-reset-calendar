@@ -1259,6 +1259,19 @@
       "type": "reset",
       "announcement_state": "announced",
       "preview": true
+    },
+    {
+      "id": "2098685367058612394",
+      "url": "https://x.com/thsottiaux/status/2098685367058612394",
+      "summary": "Completed global usage reset confirmed with 'Reset all propagated. Sweet dreams,' confirming the Astra usage reset announced earlier on September 12 had fully propagated.",
+      "announced_at": "2026-09-12T08:09:17.000Z",
+      "scope": "global",
+      "source": "cloud_task",
+      "confidence": "high",
+      "group": "reset",
+      "type": "reset",
+      "announcement_state": "confirmed",
+      "preview": false
     }
   ]
 }
