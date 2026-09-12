@@ -1246,6 +1246,19 @@
       "reset_kind": "banked",
       "announcement_state": "confirmed",
       "preview": false
+    },
+    {
+      "id": "2098612714704891959",
+      "url": "https://x.com/thsottiaux/status/2098612714704891959",
+      "summary": "A usage reset was announced for Astra users to land by midnight on September 12 after fixes to several Astra quality issues; the post does not specify the timezone for midnight or narrower plan coverage.",
+      "announced_at": "2026-09-12T03:20:36.000Z",
+      "scope": "global",
+      "source": "cloud_task",
+      "confidence": "high",
+      "group": "reset",
+      "type": "reset",
+      "announcement_state": "announced",
+      "preview": true
     }
   ]
 }
