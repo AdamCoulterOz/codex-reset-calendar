@@ -839,4 +839,19 @@ URL:https://x.com/thsottiaux/status/2097752790177370535
 CATEGORIES:banked
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:codex-reset-2098612714704891959@adamcoulteroz.github.io
+DTSTAMP:20260912T032036Z
+DTSTART:20260912T032036Z
+DTEND:20260912T035036Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:A usage reset was announced for Astra users to land by midnight
+  on September 12 after fixes to several Astra quality issues\; the post do
+ es not specify the timezone for midnight or narrower plan coverage.\n\nCla
+ ssification: tentative\nScope: global\nConfidence: high\nTiming provenance
+ : announced_at\nAudience: not specified\nSource: cloud_task
+URL:https://x.com/thsottiaux/status/2098612714704891959
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
 END:VCALENDAR
