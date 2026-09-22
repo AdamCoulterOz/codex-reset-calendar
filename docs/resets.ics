@@ -884,4 +884,20 @@ URL:https://x.com/thsottiaux/status/2101352781219258527
 CATEGORIES:banked
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:codex-reset-2102254445082116335@adamcoulteroz.github.io
+DTSTAMP:20260922T043132Z
+DTSTART:20260922T043132Z
+DTEND:20260922T050132Z
+SUMMARY:Confirmed banked reset
+DESCRIPTION:Tibo reiterated that the previously promised reset is coming Tu
+ esday ('I promised a reset for Tuesday')\; in context this refers to the p
+ reviously announced banked reset\, but the post gives no exact clock time\
+ , timezone\, or eligible plan breakdown.\n\nClassification: banked\nScope:
+  global\nConfidence: high\nTiming provenance: announced_at\nAudience: not 
+ specified\nSource: cloud_task
+URL:https://x.com/thsottiaux/status/2102254445082116335
+CATEGORIES:banked
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
