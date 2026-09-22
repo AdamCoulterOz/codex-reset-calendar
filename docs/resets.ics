@@ -900,4 +900,19 @@ URL:https://x.com/thsottiaux/status/2102254445082116335
 CATEGORIES:banked
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:codex-reset-2102463847714247142@adamcoulteroz.github.io
+DTSTAMP:20260922T182337Z
+DTSTART:20260922T182337Z
+DTEND:20260922T185337Z
+SUMMARY:Confirmed banked reset
+DESCRIPTION:GPT-6 Sol and Luna launched with a banked reset being loaded in
+ to all accounts of Plus\, Pro and Business users\; the post does not speci
+ fy a delivery-completion time.\n\nClassification: banked\nScope: global\nC
+ onfidence: high\nTiming provenance: announced_at\nAudience: not specified\
+ nSource: cloud_task
+URL:https://x.com/thsottiaux/status/2102463847714247142
+CATEGORIES:banked
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
