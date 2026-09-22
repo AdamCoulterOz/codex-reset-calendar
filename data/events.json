@@ -1300,6 +1300,20 @@
       "reset_kind": "banked",
       "announcement_state": "confirmed",
       "preview": false
+    },
+    {
+      "id": "2102463847714247142",
+      "url": "https://x.com/thsottiaux/status/2102463847714247142",
+      "summary": "GPT-6 Sol and Luna launched with a banked reset being loaded into all accounts of Plus, Pro and Business users; the post does not specify a delivery-completion time.",
+      "announced_at": "2026-09-22T18:23:37.000Z",
+      "scope": "global",
+      "source": "cloud_task",
+      "confidence": "high",
+      "group": "credits",
+      "type": "credits",
+      "reset_kind": "banked",
+      "announcement_state": "confirmed",
+      "preview": false
     }
   ]
 }
