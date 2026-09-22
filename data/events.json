@@ -1286,6 +1286,20 @@
       "reset_kind": "banked",
       "announcement_state": "confirmed",
       "preview": false
+    },
+    {
+      "id": "2102254445082116335",
+      "url": "https://x.com/thsottiaux/status/2102254445082116335",
+      "summary": "Tibo reiterated that the previously promised reset is coming Tuesday ('I promised a reset for Tuesday'); in context this refers to the previously announced banked reset, but the post gives no exact clock time, timezone, or eligible plan breakdown.",
+      "announced_at": "2026-09-22T04:31:32.000Z",
+      "scope": "global",
+      "source": "cloud_task",
+      "confidence": "high",
+      "group": "credits",
+      "type": "credits",
+      "reset_kind": "banked",
+      "announcement_state": "confirmed",
+      "preview": false
     }
   ]
 }
