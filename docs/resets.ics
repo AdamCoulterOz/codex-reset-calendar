@@ -915,4 +915,19 @@ URL:https://x.com/thsottiaux/status/2102463847714247142
 CATEGORIES:banked
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:codex-reset-2103637477760311522@adamcoulteroz.github.io
+DTSTAMP:20260926T000713Z
+DTSTART:20260926T000713Z
+DTEND:20260926T003713Z
+SUMMARY:Announced/tentative usage reset
+DESCRIPTION:Following a brief disruption\, Tibo announced that usage limits
+  will be reset for all paid users across Codex and ChatGPT Work\; the post
+  gives no completion time or narrower delivery window.\n\nClassification: 
+ tentative\nScope: global\nConfidence: high\nTiming provenance: announced_a
+ t\nAudience: not specified\nSource: cloud_task
+URL:https://x.com/thsottiaux/status/2103637477760311522
+CATEGORIES:tentative
+STATUS:TENTATIVE
+END:VEVENT
 END:VCALENDAR
